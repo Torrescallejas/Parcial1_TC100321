@@ -16,7 +16,7 @@ Para ejecutar la aplicación, solo necesitas un navegador web moderno. No se req
 Configuración de la API
 
     Obtener la clave de la API:
-    Debes obtener una clave API de OpenWeatherMap. Puedes registrarte y obtener una clave gratuita en el siguiente enlace: OpenWeatherMap API Key. (En este caso yo he brindado mi API KEY para que no tenga que hacer este paso)
+    Debes obtener una clave API de OpenWeatherMap. Puedes registrarte y obtener una clave gratuita en el siguiente enlace: OpenWeatherMap API Key. (En este caso yo he brindado mi API KEY para que no tenga que hacer este paso, solo copiela de la U Virtual y peguela donde se le indique)
 
     Configurar la clave API:
     Una vez que tengas tu clave API, debes agregarla en el archivo app.js en la siguiente línea:

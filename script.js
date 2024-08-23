@@ -9,7 +9,7 @@ const wrapper = document.querySelector(".wrapper"),
     arrowBack = wrapper.querySelector("header i");
 
 let api;
-let apiKey = '80b89a69b2ac38bf1d8b0042ec8d6b89'; // Key para poder usar la API
+let apiKey = 'YOUR_API_KEY_HERE'; // Key para poder usar la API
 
 // Evento Keyup para el campo de Texto
 inputField.addEventListener("keyup", e => {
